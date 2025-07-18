@@ -15,10 +15,10 @@
 ![Task 2 Screenshot](assets/list_slicing.png)
 
 ## Files
-- `task1_student_marks.py`: Script for Task 1
-- `task2_list_slicing.py`: Script for Task 2
+- `student_marks.py`: Script for Task 1
+- `list_slicing.py`: Script for Task 2
 
 ## How to Run
 ```bash
-python task1_student_marks.py
-python task2_list_slicing.py
+python student_marks.py
+python list_slicing.py
